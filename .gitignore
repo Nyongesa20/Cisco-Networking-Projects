@@ -1,0 +1,14 @@
+OS
+.DS_Store
+Thumbs.db
+
+VSCode
+.vscode/
+
+Packet Tracer autosaves/temp (not needed in repo)
+*.tmp
+*.backup
+
+python virtualenvs, if any
+venv/
+.env
